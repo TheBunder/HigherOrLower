@@ -1,0 +1,202 @@
+Algeria---46800000
+Angola---37800000
+Benin---14500000
+Botswana---2500000
+Burkina Faso---23600000
+Burundi---14000000
+Cabo Verde---570000
+Cameroon---29200000
+Central African Republic---5300000
+Chad---20300000
+Comoros---880000
+Congo---6300000
+Democratic Republic of the Congo---115400000
+Côte d'Ivoire---31900000
+Djibouti---1070000
+Egypt---106600000
+Equatorial Guinea---1500000
+Eritrea---3600000
+Eswatini---1200000
+Ethiopia---109900000
+Gabon---2300000
+Gambia---2500000
+Ghana---34400000
+Guinea---14800000
+Guinea-Bissau---2100000
+Kenya---51600000
+Lesotho---2300000
+Liberia---5600000
+Libya---7400000
+Madagascar---32000000
+Malawi---21700000
+Mali---24500000
+Mauritania---4700000
+Mauritius---1300000
+Morocco---38100000
+Mozambique---34600000
+Namibia---2600000
+Niger---27000000
+Nigeria---228200000
+Rwanda---14300000
+São Tomé and Príncipe---240000
+Senegal---18500000
+Seychelles---100000
+Sierra Leone---8600000
+Somalia---19000000
+South Africa---64700000
+South Sudan---11900000
+Sudan---47700000
+Tanzania---65400000
+Togo---9500000
+Tunisia---12300000
+Uganda---47100000
+Zambia---21300000
+Zimbabwe---16600000
+Afghanistan---43800000
+Armenia---3000000
+Azerbaijan---10200000
+Bahrain---1800000
+Bangladesh---175600000
+Bhutan---800000
+Brunei---470000
+Cambodia---17400000
+China---1445000000
+Cyprus---1200000
+East Timor---1400000
+Georgia---3700000
+India---1428000000
+Indonesia---284000000
+Iran---88600000
+Iraq---45400000
+Israel---9800000
+Japan---125400000
+Jordan---12200000
+Kazakhstan---19200000
+Kuwait---4700000
+Kyrgyzstan---7300000
+Laos---7600000
+Lebanon---7100000
+Malaysia---34900000
+Maldives---400000
+Mongolia---3400000
+Myanmar---56200000
+Nepal---31900000
+North Korea---26100000
+Oman---5300000
+Pakistan---247000000
+Philippines---113100000
+Qatar---3200000
+Saudi Arabia---37400000
+Singapore---6000000
+South Korea---51900000
+Sri Lanka---22600000
+Syria---18500000
+Tajikistan---10400000
+Thailand---72200000
+Turkey---86200000
+Turkmenistan---6200000
+United Arab Emirates---10200000
+Uzbekistan---35700000
+Vietnam---99900000
+Yemen---30500000
+Albania---2800000
+Andorra---79000
+Armenia---3000000
+Austria---9100000
+Azerbaijan---10200000
+Belarus---9400000
+Belgium---11800000
+Bosnia and Herzegovina---3500000
+Bulgaria---6900000
+Croatia---4100000
+Cyprus---1200000
+Czech Republic---10700000
+Denmark---5900000
+Estonia---1300000
+Finland---5600000
+France---67800000
+Georgia---3700000
+Germany---83800000
+Greece---10700000
+Hungary---9800000
+Iceland---360000
+Ireland---5200000
+Italy---60400000
+Kosovo---1800000
+Latvia---1900000
+Liechtenstein---39000
+Lithuania---2800000
+Luxembourg---650000
+Malta---540000
+Moldova---2600000
+Monaco---39000
+Montenegro---630000
+Netherlands---17800000
+North Macedonia---2100000
+Norway---5500000
+Poland---37800000
+Portugal---10400000
+Romania---19400000
+San Marino---34000
+Serbia---7200000
+Slovakia---5500000
+Slovenia---2100000
+Spain---47400000
+Sweden---10700000
+Switzerland---8800000
+Ukraine---41700000
+United Kingdom---68700000
+Vatican City---800
+Antigua and Barbuda---100000
+Bahamas---350000
+Barbados---280000
+Belize---400000
+Canada---38900000
+Costa Rica---5200000
+Cuba---11300000
+Dominica---74000
+Dominican Republic---11500000
+El Salvador---6700000
+Grenada---114000
+Guatemala---18100000
+Haiti---11800000
+Honduras---10400000
+Jamaica---3000000
+Mexico---130900000
+Nicaragua---6700000
+Panama---4500000
+Saint Kitts and Nevis---55000
+Saint Lucia---340000
+Saint Vincent and the Grenadines---110000
+Trinidad and Tobago---1400000
+United States---336300000
+Argentina---46300000
+Bolivia---12200000
+Brazil---217100000
+Chile---19200000
+Colombia---51800000
+Ecuador---18200000
+Falkland Islands---3500
+French Guiana---300000
+Guyana---800000
+Paraguay---7200000
+Peru---34000000
+Suriname---600000
+Uruguay---3500000
+Venezuela---32500000
+Australia---26000000
+Fiji---920000
+Kiribati---120000
+Marshall Islands---60000
+Micronesia---110000
+Nauru---11000
+New Caledonia---300000
+New Zealand---5200000
+Palau---22000
+Papua New Guinea---9500000
+Samoa---200000
+Solomon Islands---700000
+Tonga---100000
+Tuvalu---12000
+Vanuatu---320000
+Antarctica---5000
