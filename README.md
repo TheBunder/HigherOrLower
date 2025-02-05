@@ -21,7 +21,7 @@ This game challenges the player to compare the populations of two countries and 
     *   A physical Android device or emulator for testing.
 
 2.  **Steps:**
-    1.  Clone the repository: `git clone [https://github.com/TheBunder/HigherOrLower.git]`
+    1.  Clone the repository: `git clone (https://github.com/TheBunder/HigherOrLower.git)`
     2.  Open the project in Android Studio.
     3.  Build the project.
     4.  Run the app on your Android device or emulator.
